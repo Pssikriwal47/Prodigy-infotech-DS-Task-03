@@ -4,7 +4,8 @@
 Welcome to my submission for Task 3 of the Data Science Internship at Prodigy Infotech. In this task, focusing on data cleaning, analysis, and uncovering insightful patterns.
 
 
-<img src="![ds 03](https://github.com/user-attachments/assets/f61e049e-4bcf-4d84-8731-dc0f471aae37)
+<img src="![ds 03](https://github.com/user-attachments/assets/c8c9b317-6e34-4d7f-a8b0-f98971d2ca33)
+)
 
 ## Task Overview
 
